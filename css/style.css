@@ -485,6 +485,36 @@ pre {
   margin-left: -15px;
 }
 
+.img-325{
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+
+.img-327{
+  display: flex;
+  width: 83vw;
+}
+
+@media only screen and (max-width: 500px) {
+  .img-hiiden{
+    display: none;
+  }
+  .text-smal{
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (min-width: 500px) {
+  .hideno{
+    display: none;
+  }
+}
+
+.letere{
+  font-size: 14px;
+}
+
 .no-gutters {
   margin-right: 0;
   margin-left: 0; }
@@ -8280,7 +8310,7 @@ h1, h2, h3, h4, h5,
   font-weight: 300; }
   @media (max-width: 991.98px) {
     .slider-text h1 {
-      font-size: 40px; } }
+      font-size: 30px; } }
 
 .slider-text p {
   font-size: 20px;
@@ -8641,12 +8671,12 @@ textarea.form-control {
   font-size: 24px; }
 
 .ftco-section {
-  padding: 2em 0;
+  padding: 1em 0;
   position: relative;
   width: 100%; }
   @media (max-width: 767.98px) {
     .ftco-section {
-      padding: 6em 0; } }
+      padding: 1em 0; } }
 
 .ftco-no-pt {
   padding-top: 0 !important; }
