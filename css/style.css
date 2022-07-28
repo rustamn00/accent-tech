@@ -503,6 +503,10 @@ pre {
   .text-smal{
     font-size: 1rem;
   }
+  .ppy-5{
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
+  }
 }
 
 @media only screen and (min-width: 500px) {
@@ -6664,7 +6668,7 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 3rem !important; }
+  padding-top: 5rem !important; }
 
 .pr-5,
 .px-5 {
@@ -6672,7 +6676,7 @@ button.bg-dark:focus {
 
 .pb-5,
 .py-5 {
-  padding-bottom: 3rem !important; }
+  padding-bottom: 5rem !important; }
 
 .pl-5,
 .px-5 {
