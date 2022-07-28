@@ -496,6 +496,10 @@ pre {
   width: 83vw;
 }
 
+.logo-322{
+  width: 10vw;
+}
+
 @media only screen and (max-width: 500px) {
   .img-hiiden{
     display: none;
